@@ -1,4 +1,4 @@
-README – Essential Questions Reflection
+README – 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 Understanding and implementing user needs is a fundamental aspect of effective software development. I begin by engaging with stakeholders to gather detailed requirements that reflect their expectations and business goals. Translating these requirements into “user stories” allows me to capture specific functionalities from the user’s perspective. Each user story serves as a concise, goal-oriented narrative that outlines what the user wants to achieve and why. This approach promotes clarity, ensures alignment with user expectations, and provides a clear development path that guides implementation. Additionally, user stories support prioritization and continuous feedback, helping maintain focus on delivering valuable features.
 
